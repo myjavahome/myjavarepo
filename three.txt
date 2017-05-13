@@ -1,2 +1,7 @@
 practice session 3
+<<<<<<< HEAD
 line5
+=======
+
+line 4
+>>>>>>> b41720f2907c0932c7f494c38252ead58a9bf619
